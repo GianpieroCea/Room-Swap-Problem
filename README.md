@@ -1,6 +1,6 @@
 # Room-Swap-Problem
 Submitted solution to the ECM competition: http://www.ecmselection.co.uk/articles/ecm-brainbuster-42-office-move
-Our solution gave the correct answer.
+Our solution gave the correct answer. Me and @JoeTilley both worked on this and wrote the code for Processing.
 
 We noted that there are only 6 possible moves possible. From the initial position, we can make the moves:
 ACD (called CL meaning clockwise left)
